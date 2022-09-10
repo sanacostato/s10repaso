@@ -15,4 +15,5 @@ function cambiaColor(){
     console.log("numero es:"+randomColor);
     bodyReference.style.backgroundColor = "#"+randomColor; // se pone el # porque el color con numeros lleva # anrtes
     
+    
 }
